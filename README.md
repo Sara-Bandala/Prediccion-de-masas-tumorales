@@ -6,6 +6,10 @@ La mamografía es el método más eficaz para la detección del cáncer de mama 
 Es innecesario el estrés y la cirugía que se deriva de los falsos positivos obtenidos de los resultados de la mamografía. Si podemos construir una mejor manera de interpretarlos a traves del Machine Learning, se podría mejorar la calidad de vida de muchas personas.
 
 
+
+
+
+
 ### Objetivo: 
 Predecir si una masa tumoral en una mamografía es benigna o maligna. Se hizo uso del conjunto de datos públicos de "masas mamográficas" del repositorio de UCI. Disponible [aqui](https://archive.ics.uci.edu/dataset/161/mammographic+mass). Esta base contiene 961 casos de masas tumorales detectadas en mamografías. El archivo contiene los siguientes atributos:
 
